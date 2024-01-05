@@ -1,0 +1,60 @@
+[
+    {
+        "groupName":"backend technology",
+        "list":[
+            {
+                "_name":"Java",
+                "_type":"Language",
+                "_versionsUsed":["Java 8", "Java 11", "Java 17"],
+                "_initRating": 0,
+                "_desiredRating": 5,
+                "_ideUsed": ["Eclipse", "Notepad++"]
+            },
+            {
+                "_name":"Spring Boot",
+                "_type":"Framework",
+                "_versionsUsed":["3.05", "3.10"],
+                "_initRating": 0,
+                "_desiredRating": 4,
+                "_ideUsed": ["Eclipse", "IntelliJ"]
+            },
+            {
+                "_name":"Spring MVC",
+                "_type":"Framework",
+                "_versionsUsed":["3.0.5.RELEASE", "4.3.2.RELEASE"],
+                "_initRating": 0,
+                "_desiredRating": 2,
+                "_ideUsed": ["Eclipse"]
+            },
+            {
+                "_name":"Spring Data JPA",
+                "_type":"Framework",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 2,
+                "_ideUsed": ["Eclipse", "IntelliJ"]
+            },
+            {
+                "_name":"Hibernate",
+                "_type":"Framework",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 2,
+                "_ideUsed": ["Eclipse", "IntelliJ"]
+            }
+        ]
+    },
+    {
+        "groupName":"frontend technology",
+        "list":[
+            {
+                "_name":"Angular",
+                "_type":"Framework",
+                "_versionsUsed":["7", "12", "16"],
+                "_initRating": 0,
+                "_desiredRating": 5,
+                "_ideUsed": ["VSC", "IntelliJ"]
+            }
+        ]
+    }
+]

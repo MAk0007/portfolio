@@ -1,0 +1,20 @@
+[
+    {
+        "option":"home"
+    },
+    {
+        "option":"about"
+    },
+    {
+        "option":"services"
+    },
+    {
+        "option":"skills"
+    },
+    {
+        "option":"education"
+    },
+    {
+        "option":"experience"
+    }
+]

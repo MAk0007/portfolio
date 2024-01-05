@@ -1,0 +1,32 @@
+[
+    {
+        "_institute_name":"AMC Engineering College",
+        "_start_year": 2014,
+        "_end_year": 2018,
+        "_course":"Bachelor of Engineering",
+        "_specialization":"Electronics & Communication Engineering",
+        "_location":"Bengaluru",
+        "_address":"AMC Campus, Bannerghatta Main Rd, Bengaluru, Karnataka 560083",
+        "_photos": ["assets/images/amc-engg-pic-1.jpg","assets/images/amc-engg-pic-2.jpg"]
+    },
+    {
+        "_institute_name":"Vijaya Bifurcated Pre University College",
+        "_start_year": 2012,
+        "_end_year": 2014,
+        "_course":"Pre-University Education",
+        "_specialization":"Physics, Chemistry, Mathematics & Electronics",
+        "_location":"Bengaluru",
+        "_address":"Near South End Circle Metro, Vijaya College Campus, Basavanagudi, Bengaluru, Karnataka 560004",
+        "_photos":["assets/images/vijaya-pu-pic.jpg"]
+    },
+    {
+        "_institute_name":"Motherland English High School",
+        "_start_year": 2009,
+        "_end_year": 2012,
+        "_course":"High School Education",
+        "_specialization":"Engilsh, Kannada, Hindi, Mathematics, Science & Social science",
+        "_location":"Bengaluru",
+        "_address":"No.6, 5th Main, New Guruppanpalya, Bangalore - West, Karnataka 560028",
+        "_photos":["assets/images/mlehs-school-pic.jpg"]
+    }
+]
