@@ -1,0 +1,57 @@
+[
+    {
+        "company_name": "GE HealthCare",
+        "profile":"Software Engineer",
+        "is_present_company": true,
+        "company_joining_date": "sep-2022",
+        "company_leaving_date":"",
+        "projects": [
+            {
+                "project_name": "Field Force Automation",
+                "project_role": "Java FSD with Angular",
+                "is_present_project": false,
+                "project_joining_date": "28-sep-2022",
+                "project_end_date": "31-mar-2023",
+                "project_desc": " Field force automation is an website used by Field engineers(FEs)/Remote engineers(REs).\nThis website helps in connecting to the hospital devices which are hosted in the hospital network.\nFunctions such as health check of the device, updating a licence, downloading/uploading a file to the device and various other tools help in performing seemless operations on the hospital device",
+                "roles_and_responsibilities": [
+                    {"Understanding Requirements":"Collaborate with stakeholders, including business analysts and product owners, to understand project requirements and user needs"},
+                    {"Front-End Development (Angular)":"Design and develop responsive and user-friendly web interfaces using Angular.\nImplement and maintain Angular components, services, and directives.\nEnsure a seamless user experience by optimizing the performance of Angular applications"},
+                    {"Back-End Development (Spring Boot)":"Develop robust and scalable server-side logic using Spring Boot.\nImplement RESTful APIs and integrate them with the front-end components.\nWork on data modeling, database design, and integration with databases (e.g., Oracle)"},
+                    {"Full Stack Integration":"Collaborate with the back-end and front-end teams to integrate Angular with Spring Boot.\nEnsure data consistency and efficient communication between the front-end and back-end components."},
+                    {"Code Versioning and Collaboration":"Use version control systems (e.g., Git) to manage and collaborate on codebase changes.\nCollaborate with other developers, testers, and cross-functional teams to ensure smooth project delivery"},
+                    {"Testing":"Write unit tests for both front-end and back-end components.\nPerform integration testing to ensure the entire application works seamlessly."},
+                    {"Security":"Implement and adhere to security best practices for both front-end and back-end development.\nEnsure data security, authentication, and authorization mechanisms are in place."},
+                    {"Performance Optimization":"Identify and address performance bottlenecks in both Angular and Spring Boot components.\nOptimize code and queries for better application performance."},
+                    {"Documentation":"Create and maintain technical documentation for code, APIs, and system architecture.\nProvide documentation for fellow developers and other stakeholders."},
+                    {"Continuous Learning":"Stay updated with the latest trends and technologies in Java, Angular, and related frameworks.\nActively participate in knowledge-sharing sessions within the team."},
+                    {"Troubleshooting and Debugging":"Diagnose and resolve issues in both front-end and back-end components.\nPerform debugging and troubleshooting to identify and fix bugs."},
+                    {"Deployment and DevOps":"Collaborate with DevOps teams for deployment automation.\nWork with containerization tools (e.g., Docker) and orchestration tools (e.g., Kubernetes) if applicable."},
+                    {"Code Reviews":"Participate in code reviews to ensure code quality, adherence to coding standards, and knowledge sharing within the team."}
+                ]
+            },
+            {
+                "project_name": "Field Force Automation",
+                "project_role": "Java FSD with Angular",
+                "is_present_project": true,
+                "project_joining_date": "01-aug-2023",
+                "project_end_date": "",
+                "project_desc": " Field force automation is an website used by Field engineers(FEs)/Remote engineers(REs).\nThis website helps in connecting to the hospital devices which are hosted in the hospital network.\nFunctions such as health check of the device, updating a licence, downloading/uploading a file to the device and various other tools help in performing seemless operations on the hospital device",
+                "roles_and_responsibilities": [
+                    {"Understanding Requirements":"Collaborate with stakeholders, including business analysts and product owners, to understand project requirements and user needs"},
+                    {"Front-End Development (Angular)":"Design and develop responsive and user-friendly web interfaces using Angular.\nImplement and maintain Angular components, services, and directives.\nEnsure a seamless user experience by optimizing the performance of Angular applications"},
+                    {"Back-End Development (Spring Boot)":"Develop robust and scalable server-side logic using Spring Boot.\nImplement RESTful APIs and integrate them with the front-end components.\nWork on data modeling, database design, and integration with databases (e.g., Oracle)"},
+                    {"Full Stack Integration":"Collaborate with the back-end and front-end teams to integrate Angular with Spring Boot.\nEnsure data consistency and efficient communication between the front-end and back-end components."},
+                    {"Code Versioning and Collaboration":"Use version control systems (e.g., Git) to manage and collaborate on codebase changes.\nCollaborate with other developers, testers, and cross-functional teams to ensure smooth project delivery"},
+                    {"Testing":"Write unit tests for both front-end and back-end components.\nPerform integration testing to ensure the entire application works seamlessly."},
+                    {"Security":"Implement and adhere to security best practices for both front-end and back-end development.\nEnsure data security, authentication, and authorization mechanisms are in place."},
+                    {"Performance Optimization":"Identify and address performance bottlenecks in both Angular and Spring Boot components.\nOptimize code and queries for better application performance."},
+                    {"Documentation":"Create and maintain technical documentation for code, APIs, and system architecture.\nProvide documentation for fellow developers and other stakeholders."},
+                    {"Continuous Learning":"Stay updated with the latest trends and technologies in Java, Angular, and related frameworks.\nActively participate in knowledge-sharing sessions within the team."},
+                    {"Troubleshooting and Debugging":"Diagnose and resolve issues in both front-end and back-end components.\nPerform debugging and troubleshooting to identify and fix bugs."},
+                    {"Deployment and DevOps":"Collaborate with DevOps teams for deployment automation.\nWork with containerization tools (e.g., Docker) and orchestration tools (e.g., Kubernetes) if applicable."},
+                    {"Code Reviews":"Participate in code reviews to ensure code quality, adherence to coding standards, and knowledge sharing within the team."}
+                ]
+            }
+        ]
+    }
+]

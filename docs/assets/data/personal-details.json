@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Mohammed Akramulla",
+        "dob":"15-Aug-1996",
+        "location":"Bengaluru, Karnataka",
+        "job_title":"Full Stack Developer",
+        "job_description": [{
+            "desc_point":"Ambitious Java Full-Stack Developer versed in following established procedures. Offering technical expertise in programming analysis, application analysis and design. Having in-depth knowledge of development tools like Eclipse, IntelliJ, VSC and languages like Java with its frameworks like Spring Boot, Spring MVC, Hibernate and front-end framework Angular 9, 16."
+        },{
+            "desc_point":"Offering 5 years of progressive experience in Java web-application development."
+        }]
+    }
+]
