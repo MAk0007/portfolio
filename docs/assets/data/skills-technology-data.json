@@ -56,5 +56,79 @@
                 "_ideUsed": ["VSC", "IntelliJ"]
             }
         ]
+    },
+    {
+        "groupName":"cloud technology",
+        "list":[
+            {
+                "_name":"AWS Kafka",
+                "_type":"Cloud",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["IntelliJ"]
+            },
+            {
+                "_name":"AWS Mongodb",
+                "_type":"Cloud",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["IntelliJ"]
+            },
+            {
+                "_name":"AWS Mongodb",
+                "_type":"Cloud",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["IntelliJ"]
+            },
+            {
+                "_name":"AWS Mongodb",
+                "_type":"Cloud",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["IntelliJ"]
+            }
+        ]
+    },
+    {
+        "groupName":"database languages",
+        "list":[
+            {
+                "_name":"OracleDb",
+                "_type":"database",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["SQL developer"]
+            },
+            {
+                "_name":"MySql DB",
+                "_type":"database",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["SQL workbench"]
+            },
+            {
+                "_name":"PostgresDb",
+                "_type":"database",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["Postgres"]
+            },
+            {
+                "_name":"Mongodb",
+                "_type":"database",
+                "_versionsUsed":[""],
+                "_initRating": 0,
+                "_desiredRating": 3,
+                "_ideUsed": ["IntelliJ"]
+            }
+        ]
     }
 ]
