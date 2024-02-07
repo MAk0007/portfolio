@@ -5,6 +5,8 @@
         "is_present_company": true,
         "company_joining_date": "sep-2022",
         "company_leaving_date":"",
+        "location":"Bengaluru, Karnataka, India",
+        "photos": ["assets/images/amc-engg-pic-1.jpg","assets/images/amc-engg-pic-2.jpg"],
         "projects": [
             {
                 "project_name": "Field Force Automation",
